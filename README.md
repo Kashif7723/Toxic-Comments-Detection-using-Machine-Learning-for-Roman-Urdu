@@ -1,4 +1,4 @@
-Toxic Comments Detection using Machine Learning for Roman Urdu
+# Toxic Comments Detection using Machine Learning for Roman Urdu
 This project focuses on detecting toxic comments written in Roman Urdu using machine learning classification models. Three different algorithms—Naive Bayes, Decision Tree, and Random Forest—were applied to classify comments as toxic or non-toxic.
 
 Key Highlights:
