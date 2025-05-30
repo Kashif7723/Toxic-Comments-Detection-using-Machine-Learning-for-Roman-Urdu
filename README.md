@@ -1,5 +1,17 @@
-# Toxic-Comments-Detection-using-Machine-Learning-for-Roman-Urdu
-Machine learning models (Naive Bayes, Decision Tree, Random Forest) were used to classify Roman Urdu comments as toxic or non-toxic. Decision Tree and Random Forest showed high accuracy and balance, effectively detecting toxic comments and handling complex patterns in the text.
+Toxic Comments Detection using Machine Learning for Roman Urdu
+This project focuses on detecting toxic comments written in Roman Urdu using machine learning classification models. Three different algorithms—Naive Bayes, Decision Tree, and Random Forest—were applied to classify comments as toxic or non-toxic.
+
+Key Highlights:
+Evaluated models based on accuracy, precision, recall, F1-score, and confusion matrices.
+
+Naive Bayes showed decent recall but struggled with many false positives, indicating difficulty in accurately distinguishing non-toxic comments.
+
+Decision Tree achieved the highest accuracy (~99.7%) and balanced precision and recall effectively, making it a strong classifier for this task.
+
+Random Forest offered a good balance between precision and recall, with strong generalization and low false positive rates, providing robustness in detecting toxic content.
+
+Conclusion:
+Both Decision Tree and Random Forest models performed exceptionally well for toxic comment detection in Roman Urdu, with Random Forest demonstrating better generalization and robustness. This project showcases practical applications of NLP and machine learning for moderating online content in low-resource languages.
 
 # Toxic Comments Detection using Machine Learning for Roman Urdu
 
